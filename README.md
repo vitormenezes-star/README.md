@@ -19,7 +19,7 @@ Gosto de aprender na prática, desenvolvendo pequenos projetos para colocar em u
 
 ## 📌 Projetos em destaque  
 
-- [**Calculadora Python**]([https://github.com/vitormenezes-estrela/calculadora-python](https://calculadora-python-2kwexgrdpun2hl3cdq2c5k.streamlit.app/))  
+- [**Calculadora Python**](https://calculadora-python-2kwexgrdpun2hl3cdq2c5k.streamlit.app/)  
   🖩 Calculadora simples feita em Python para praticar estruturas de repetição, funções e entrada de dados.  
 
 - [**Organizador de Arquivos**](https://vitormenezes-star.github.io/Organizador-de-Arquivos/)  
