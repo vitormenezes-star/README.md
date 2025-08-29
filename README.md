@@ -22,7 +22,7 @@ Gosto de aprender na prática, desenvolvendo pequenos projetos para colocar em u
 - [**Calculadora Python**](https://calculadora-python-2kwexgrdpun2hl3cdq2c5k.streamlit.app/)  
   🖩 Calculadora simples feita em Python para praticar estruturas de repetição, funções e entrada de dados.  
 
-- [**Organizador de Arquivos**](https://vitormenezes-star.github.io/Organizador-de-Arquivos/)  
+- [**Organizador de Arquivos**](https://organizador-de-arquivos-jjezy2g38adxtukw4qqi9w.streamlit.app/)  
   📂 Script em Python que organiza arquivos automaticamente por tipo.  
 
 
