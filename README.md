@@ -29,7 +29,7 @@ Gosto de aprender na prática, desenvolvendo pequenos projetos para colocar em u
 
 ## 📫 Onde me encontrar  
 
-- 💼 [LinkedIn](https://wwww.linkedin.com/in/vitor-menezes-a4752a372/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/vitor-menezes-a4752a372/)  
 - 🐙 [GitHub](https://github.com/vitormenezes-estrela)  
 
 ---
