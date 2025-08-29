@@ -22,8 +22,9 @@ Gosto de aprender na prática, desenvolvendo pequenos projetos para colocar em u
 - [**Calculadora Python**](https://github.com/vitormenezes-estrela/calculadora-python)  
   🖩 Calculadora simples feita em Python para praticar estruturas de repetição, funções e entrada de dados.  
 
-- [**Organizador de Arquivos**](https://vitormenezes-star.github.io/organizador-arquivos/)  
+- [**Organizador de Arquivos**](https://vitormenezes-star.github.io/Organizador-de-Arquivos/)  
   📂 Script em Python que organiza arquivos automaticamente por tipo.  
+
 
 ---
 
